@@ -36,12 +36,12 @@ I've used some **EDA** techniques to evaluate how each attributed interacted wit
 
 # Libraries Used
 
-> - pandas;
-> - numoy;
-> - plotly;
-> - matplotlib;
-> - seaborn;
-> - sklearn;
+> - pandas
+> - numpy
+> - plotly
+> - matplotlib
+> - seaborn
+> - sklearn
 > - pycaret
 
 ---
